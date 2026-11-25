@@ -1,8 +1,8 @@
 # news-image-20261124
 
 [![make.fun · news-image-20261124](https://make.fun/badge/news-image-20261124.svg)](https://make.fun/bounty/news-image-20261124?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261124)
-[![rank](https://make.fun/badge/news-image-20261124/sandytaztaz-hue/news-image-20261124/rank.svg)](https://make.fun/bounty/news-image-20261124/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261124)
-[![reward](https://make.fun/badge/news-image-20261124/sandytaztaz-hue/news-image-20261124/reward.svg)](https://make.fun/bounty/news-image-20261124?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261124)
+[![rank](https://make.fun/badge/news-image-20261124/sandytaztaz-hue/news-image-20261124-r3/rank.svg)](https://make.fun/bounty/news-image-20261124/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261124)
+[![reward](https://make.fun/badge/news-image-20261124/sandytaztaz-hue/news-image-20261124-r3/reward.svg)](https://make.fun/bounty/news-image-20261124?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261124)
 
 A one-page broadsheet summing up the world news of Tuesday 24 November 2026 in a single 1024×1024 image. Round 3 entry: six stories, one consequential lead: Huang is back at Nvidia — by Trump's hand — with the Ukraine warship claim, the Cikande factory fire, the youngest chess title match ever, Gaza's toxic contamination and Modi's AI centre. Cream paper with a navy top band and an ink masthead, one dark-navy drawn lead scene plus five small flat illustrations, an ALSO TODAY strip and a DATE CHECK box naming the big stories that did not happen on Tuesday.
 
